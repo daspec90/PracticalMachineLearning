@@ -1,5 +1,9 @@
 ### PracticalMachineLearning
 Note: if you preface the link with http://htmlpreview.github.com/?, you will see properly rendered HTML.
-So, if you paste this into a new webpage, you should see the properly rendered page:
+For example:
 
+raw HTML--> https://github.com/daspec90/PracticalMachineLearning/blob/gh-pages/PMLproject.html
 
+rendered HTML--> http://htmlpreview.github.com/?https://github.com/daspec90/PracticalMachineLearning/blob/gh-pages/PMLproject.html
+
+Paste the rendered HTML link in a new webpage to see a rendered HTML image of the my course project.
